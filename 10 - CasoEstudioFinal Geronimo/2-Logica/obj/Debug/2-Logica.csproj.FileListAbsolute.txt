@@ -1,0 +1,18 @@
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\2-Logica\obj\Debug\Logica.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\bin\Debug\Logica.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\bin\Debug\Logica.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\bin\Debug\EntidadesCompartidas.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\bin\Debug\Persistencia.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\bin\Debug\EntidadesCompartidas.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\bin\Debug\Persistencia.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\obj\Debug\ResolveAssemblyReference.cache
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\obj\Debug\Logica.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\2-Logica\obj\Debug\Logica.pdb

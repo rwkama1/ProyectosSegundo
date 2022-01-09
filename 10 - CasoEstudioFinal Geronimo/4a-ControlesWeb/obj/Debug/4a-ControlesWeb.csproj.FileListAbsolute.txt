@@ -1,0 +1,14 @@
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4a-ControlesWeb\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4a-ControlesWeb\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4a-ControlesWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4a-ControlesWeb\bin\Debug\ControlesWeb.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4a-ControlesWeb\bin\Debug\ControlesWeb.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4a-ControlesWeb\obj\Debug\ControlesWeb.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4a-ControlesWeb\obj\Debug\ControlesWeb.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4a-ControlesWeb\bin\Debug\ControlesWeb.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4a-ControlesWeb\bin\Debug\ControlesWeb.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4a-ControlesWeb\bin\Debug\EntidadesCompartidas.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4a-ControlesWeb\bin\Debug\EntidadesCompartidas.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4a-ControlesWeb\obj\Debug\ResolveAssemblyReference.cache
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4a-ControlesWeb\obj\Debug\ControlesWeb.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4a-ControlesWeb\obj\Debug\ControlesWeb.pdb

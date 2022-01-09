@@ -1,0 +1,28 @@
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\00 - CasoEstudio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Persistencia\obj\Debug\Persistencia.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Persistencia\bin\Debug\Persistencia.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Persistencia\bin\Debug\Persistencia.pdb
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Persistencia\obj\Debug\Persistencia.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Persistencia\obj\Debug\Persistencia.pdb

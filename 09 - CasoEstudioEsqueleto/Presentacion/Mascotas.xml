@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mascotas>
+  <Mascota>
+    <Nombre>Nombre 1</Nombre>
+    <Raza>Perro</Raza>
+    <Edad>1</Edad>
+  </Mascota>
+
+  <Mascota>
+    <Nombre>Nombre 2</Nombre>
+    <Raza>Gato</Raza>
+    <Edad>9</Edad>
+  </Mascota>
+
+  <Mascota>
+    <Nombre>Nombre 3</Nombre>
+    <Raza>Canguro</Raza>
+    <Edad>5</Edad>
+  </Mascota>
+
+  <Mascota>
+    <Nombre>Nombre 4</Nombre>
+    <Raza>Tortuga</Raza>
+    <Edad>50</Edad>
+  </Mascota>
+
+  <Mascota>
+    <Nombre>Nombre 5</Nombre>
+    <Raza>Lagartija</Raza>
+    <Edad>2</Edad>
+  </Mascota>
+
+  <Dueño>
+    <Nombre>Dueño1</Nombre>
+    <Direccion>Una Calle 123</Direccion>
+  </Dueño>
+  
+</Mascotas>

@@ -1,0 +1,5 @@
+bin\Debug\EntidadesCOmpartidas.dll
+bin\Debug\EntidadesCOmpartidas.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EntidadesCOmpartidas.dll
+obj\Debug\EntidadesCOmpartidas.pdb

@@ -1,0 +1,97 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MPEmpleado.master.cs" Inherits="MPEmpleado" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style4
+        {
+            width: 21%;
+        }
+        </style>
+</head>
+<body style="height: 450px">
+    <form id="form1" runat="server">
+            <table align="left" style="width: 100%;">
+            <tr>
+            <td class="style4">
+                        <asp:Button id="BtnSalir" runat="server" Text="Desloguearse" 
+                            onclick="BtnSalir_Click"/>
+                        <br />
+                    </td>
+                    <td rowspan="2">
+                       <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+                           <br />
+         <br />
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            <tr>
+            <td class="style4">
+                        <asp:TreeView ID="Menu" runat="server" ShowLines="True">
+                            <Nodes>
+                                <asp:TreeNode Text="Mantenimientos" Value="Mantenimientos">
+                                    <asp:TreeNode NavigateUrl="~/AbmClientes.aspx" Text="ABM Clientes" 
+                                        Value="ABM Clientes"></asp:TreeNode>
+                                    <asp:TreeNode Text="AB CuentaCorriente" 
+                                        Value="AB CuentaCorriente" NavigateUrl="~/ABCC.aspx"></asp:TreeNode>
+                                    <asp:TreeNode Text="Alta Movimiento" 
+                                        Value="Alta Movimiento" NavigateUrl="~/AMovimiento.aspx"></asp:TreeNode>
+                                </asp:TreeNode>
+                                <asp:TreeNode Text="Listados" Value="Listados">
+                                    <asp:TreeNode 
+                                        Text="Clientes / Cuentas" 
+                                        Value="Listado Clientes con Telefonos" 
+                                        NavigateUrl="~/ListadoClientes.aspx">
+                                    </asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/ListadoMovimientos.aspx" Text="Movimientos - Linq" 
+                                        Value="Movimientos - Linq"></asp:TreeNode>
+                                </asp:TreeNode>
+                            </Nodes>
+                        </asp:TreeView>
+                    </td>
+                </tr>
+            </table>
+           
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+    </form>
+</body>
+</html>

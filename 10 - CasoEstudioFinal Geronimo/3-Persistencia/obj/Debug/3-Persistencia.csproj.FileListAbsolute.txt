@@ -1,0 +1,14 @@
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\3-Persistencia\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\3-Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\3-Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\3-Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\3-Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\3-Persistencia\obj\Debug\Persistencia.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\3-Persistencia\obj\Debug\Persistencia.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\3-Persistencia\bin\Debug\Persistencia.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\3-Persistencia\bin\Debug\Persistencia.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\3-Persistencia\bin\Debug\EntidadesCompartidas.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\3-Persistencia\bin\Debug\EntidadesCompartidas.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\3-Persistencia\obj\Debug\ResolveAssemblyReference.cache
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\3-Persistencia\obj\Debug\Persistencia.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\3-Persistencia\obj\Debug\Persistencia.pdb

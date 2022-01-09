@@ -1,0 +1,30 @@
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\bios\2º año carrera\material mio\01D - CasoEstudioSingleton\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01D - CasoEstudioSingleton\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\bios\2º año carrera\material mio\01D - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\bios\2º año carrera\material mio\01D - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01D - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

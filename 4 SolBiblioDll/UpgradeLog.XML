@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SolBiblioDll">
+</Property><Property Name="Archivo de la solución" Value="D:\4 SolBiblioDll\SolBiblioDll.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\4 SolBiblioDll\SolBiblioDll.suo">
+</Property><Property Name="Date" Value="martes, 21 de julio de 2015">
+</Property><Property Name="Time" Value="20:03">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SolBiblioDll.sln" Description="La copia D:\4 SolBiblioDll\Backup\SolBiblioDll.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="SolBiblioDll.suo" Description="La copia D:\4 SolBiblioDll\Backup\SolBiblioDll.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Datos" Source="Datos\Datos.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\4 SolBiblioDll\Backup\Datos\Datos.csproj">
+</Event><Event ErrorLevel="0" Project="Datos" Source="Datos\CONEXION.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\Datos\CONEXION.cs">
+</Event><Event ErrorLevel="0" Project="Datos" Source="Datos\DatosDigital.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\Datos\DatosDigital.cs">
+</Event><Event ErrorLevel="0" Project="Datos" Source="Datos\DatosPapel.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\Datos\DatosPapel.cs">
+</Event><Event ErrorLevel="0" Project="Datos" Source="Datos\DatosPrestamo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\Datos\DatosPrestamo.cs">
+</Event><Event ErrorLevel="0" Project="Datos" Source="Datos\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\Datos\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="Datos" Source="Datos\Datos.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="Datos" Source="Datos\Datos.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Datos" Source="Datos\Datos.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\EntidadesCOmpartidas.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\4 SolBiblioDll\Backup\EntidadesCOmpartidas\EntidadesCOmpartidas.csproj">
+</Event><Event ErrorLevel="0" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\Digital.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\EntidadesCOmpartidas\Digital.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\Papel.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\EntidadesCOmpartidas\Papel.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\Prestamo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\EntidadesCOmpartidas\Prestamo.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\EntidadesCOmpartidas\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\Publicacion.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\EntidadesCOmpartidas\Publicacion.cs">
+</Event><Event ErrorLevel="1" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\EntidadesCOmpartidas.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\EntidadesCOmpartidas.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\EntidadesCOmpartidas.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Logica" Source="Logica\Logica.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\4 SolBiblioDll\Backup\Logica\Logica.csproj">
+</Event><Event ErrorLevel="0" Project="Logica" Source="Logica\LogicaPrestamos.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\Logica\LogicaPrestamos.cs">
+</Event><Event ErrorLevel="0" Project="Logica" Source="Logica\LogicaPublicaciones.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\Logica\LogicaPublicaciones.cs">
+</Event><Event ErrorLevel="0" Project="Logica" Source="Logica\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\4 SolBiblioDll\Backup\Logica\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="Logica" Source="Logica\Logica.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="Logica" Source="Logica\Logica.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Logica" Source="Logica\Logica.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SolBiblioDll.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="SolBiblioDll.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Datos" Source="Datos\Datos.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="EntidadesCOmpartidas" Source="EntidadesCOmpartidas\EntidadesCOmpartidas.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Logica" Source="Logica\Logica.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

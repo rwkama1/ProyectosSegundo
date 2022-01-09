@@ -1,0 +1,10 @@
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4c-AdministradorBD\bin\Debug\3d-AdministradorBD.exe
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4c-AdministradorBD\bin\Debug\3d-AdministradorBD.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4c-AdministradorBD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4c-AdministradorBD\obj\x86\Debug\3d-AdministradorBD.exe
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\4c-AdministradorBD\obj\x86\Debug\3d-AdministradorBD.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4c-AdministradorBD\bin\Debug\3d-AdministradorBD.exe
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4c-AdministradorBD\bin\Debug\3d-AdministradorBD.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4c-AdministradorBD\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4c-AdministradorBD\obj\x86\Debug\3d-AdministradorBD.exe
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\4c-AdministradorBD\obj\x86\Debug\3d-AdministradorBD.pdb

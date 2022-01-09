@@ -1,0 +1,72 @@
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\bin\Debug\Logica.dll
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\bin\Debug\Logica.pdb
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\bin\Debug\Persistencia.dll
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\bin\Debug\Persistencia.pdb
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\obj\Debug\Logica.dll
+D:\bios\2º año carrera\material mio\01A - CasoEstudioFachada\Logica\obj\Debug\Logica.pdb
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\bin\Debug\Logica.dll
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\bin\Debug\Logica.pdb
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\bin\Debug\Persistencia.dll
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\bin\Debug\Persistencia.pdb
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\obj\Debug\Logica.dll
+D:\bios\2º año carrera\material mio\01B - CasoEstudioFachada\Logica\obj\Debug\Logica.pdb
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\obj\Debug\Logica.dll
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\obj\Debug\Logica.pdb
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\bin\Debug\Logica.dll
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\bin\Debug\Logica.pdb
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\bin\Debug\Persistencia.dll
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\bios\2º año carrera\material mio\01C - CasoEstudioFachada\Logica\bin\Debug\Persistencia.pdb
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\bin\Debug\Logica.dll
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\bin\Debug\Logica.pdb
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\bin\Debug\Persistencia.dll
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\bin\Debug\Persistencia.pdb
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\obj\Debug\Logica.dll
+C:\Documents and Settings\Administrador\Escritorio\01B - CasoEstudioFabrica\Logica\obj\Debug\Logica.pdb
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\bin\Debug\Logica.dll
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\bin\Debug\Logica.pdb
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\bin\Debug\Persistencia.dll
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\bin\Debug\Persistencia.pdb
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\obj\Debug\Logica.dll
+C:\Documents and Settings\Administrador\Escritorio\01C - CasoEstudioSingleton\Logica\obj\Debug\Logica.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoDeEstudio\01C - CasoEstudioSingleton\Logica\obj\Debug\Logica.pdb
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\01C - CasoEstudioSingleton\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\01C - CasoEstudioSingletonEsqueleto\Logica\obj\Debug\Logica.pdb

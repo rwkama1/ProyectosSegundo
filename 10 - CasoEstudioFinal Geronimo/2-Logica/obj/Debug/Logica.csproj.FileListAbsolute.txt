@@ -1,0 +1,36 @@
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\Logica.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\Logica.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\obj\Debug\Logica.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Logica\obj\Debug\Logica.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\bin\Debug\Logica.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\bin\Debug\Logica.pdb
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\bin\Debug\Persistencia.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\bin\Debug\Persistencia.pdb
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\obj\Debug\Logica.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Logica\obj\Debug\Logica.pdb

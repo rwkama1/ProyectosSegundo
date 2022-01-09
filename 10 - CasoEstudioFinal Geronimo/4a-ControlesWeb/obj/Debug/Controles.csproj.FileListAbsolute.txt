@@ -1,0 +1,14 @@
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Controles\bin\Debug\Controles.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Controles\bin\Debug\Controles.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Controles\obj\Debug\Controles.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Controles\obj\Debug\Controles.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\Controles\bin\Debug\EntidadesCompartidas.pdb
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Controles\bin\Debug\Controles.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Controles\bin\Debug\Controles.pdb
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Controles\bin\Debug\EntidadesCompartidas.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Controles\bin\Debug\EntidadesCompartidas.pdb
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Controles\obj\Debug\ResolveAssemblyReference.cache
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Controles\obj\Debug\Controles.dll
+D:\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\2 - Casos de Estudio  - Completo\10 - CasoEstudioFinal\Controles\obj\Debug\Controles.pdb

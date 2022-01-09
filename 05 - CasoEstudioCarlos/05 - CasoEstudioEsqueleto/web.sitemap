@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap >
+      <siteMapNode title="Raiz" description="Raiz" url="~/default.aspx">
+            <siteMapNode title="Ejemplos Controles de Navegacion" description="Ejemplos Navegacion" url="">
+                <siteMapNode title="Ejemplo de TreeView" description="TreeView" url="~/01-ControlTreeView.aspx" />
+                <siteMapNode title="Ejemplo de Menu" description="Menu" url="~/02-ControlMenu.aspx" />
+                <siteMapNode title="Ejemplo de SiteMapPath" description="SiteMapPath" url="~/03-ControlSitemapPath.aspx" />
+                <siteMapNode title="Ejemplo de SiteMap y SiteMapNode" description="SiteMap y SiteMapNode" url="~/04-ExploracionManual.aspx" />
+            </siteMapNode>
+        
+            <siteMapNode title="Ejemplos Controles de Datos" description="Ejemplos Datos" url="">
+              <siteMapNode title="Ejemplo de DetailsView" description="DetailsView" url="~/05-ControlDetailsView.aspx" />
+              <siteMapNode title="Ejemplo de FormView" description="FormView" url="~/06-ControlFormView.aspx" />
+              <siteMapNode title="Ejemplo de Repeater" description="Repeater" url="~/07-ControlRepeater.aspx" />
+              <siteMapNode title="Ejemplo de SqlDataSource" description="SqlDataSource" url="~/08-ControlSqlDataSource.aspx" />
+              <siteMapNode title="Ejemplo de ObjectDataSource" description="ObjectDataSource" url="~/09-ControlObjectDataSource.aspx" />
+            </siteMapNode>
+        
+            <siteMapNode title="Ejemplos Control de Login" description="Ejemplo Controles Login" url="~/10-ControlesLogin.aspx">
+            </siteMapNode>
+      </siteMapNode>
+</siteMap>

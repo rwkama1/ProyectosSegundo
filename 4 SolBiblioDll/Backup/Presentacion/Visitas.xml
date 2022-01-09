@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LibroVisitas>
+  <Visitas>
+    <Nombre> Andrea </Nombre>
+    <Comentario> Es el primer comentario </Comentario>
+    <!--esto es un comentario -->
+  </Visitas>
+  <Visitas>
+    <Nombre> Juan </Nombre>
+    <Comentario> Es el segundo comentario - Esta bueno </Comentario>
+  </Visitas>
+  <Visitas>
+    <Nombre> Maria </Nombre>
+    <Comentario> Es el Tercer Comentario - No esta bueno </Comentario>
+  </Visitas>
+  <Visitas>
+    <Nombre>Miguel</Nombre>
+    <Comentario>Este es el cuarto ejemplo - no se si esta bien o mal</Comentario>
+  </Visitas>
+  <Visitas>
+    <Nombre>Algun nombre</Nombre>
+    <Comentario>kkkkkkk</Comentario>
+  </Visitas>
+</LibroVisitas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Libros>
+  - <Libro>
+    <Titulo>Titulo 1</Titulo>
+    <ISBN>1111111</ISBN>
+  </Libro>
+  - <Libro>
+    <Titulo>Titulo 2</Titulo>
+    <ISBN>2222222</ISBN>
+  </Libro>
+  - <Libro>
+    <Titulo>Titulo 3</Titulo>
+    <ISBN>3333333</ISBN>
+  </Libro>
+</Libros>

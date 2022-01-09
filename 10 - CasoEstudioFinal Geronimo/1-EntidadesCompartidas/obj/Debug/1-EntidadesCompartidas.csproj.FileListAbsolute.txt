@@ -1,0 +1,10 @@
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\1-EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\1-EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\1-EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\1-EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\10 - CasoEstudioFinal\1-EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\1-EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\1-EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\1-EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\1-EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+F:\bios\2º (Analista Programador)\NET Framework 2.0\10 - CasoEstudioFinal\1-EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

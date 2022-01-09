@@ -1,0 +1,35 @@
+C:\Documents and Settings\Administrador\Escritorio\04 - CasoEstudio\Controles\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\04 - CasoEstudio\Controles\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\04 - CasoEstudio\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\04 - CasoEstudio\Controles\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\04 - CasoEstudio\Controles\obj\Debug\Controles.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\04 - CasoEstudio\Controles\bin\Debug\Controles.dll
+C:\Users\popi\Desktop\CasoDeEstudio\04 - CasoEstudio\Controles\bin\Debug\Controles.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\04 - CasoEstudio\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoDeEstudio\04 - CasoEstudio\Controles\obj\Debug\Controles.dll
+C:\Users\popi\Desktop\CasoDeEstudio\04 - CasoEstudio\Controles\obj\Debug\Controles.pdb
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\04 - CasoEstudio\Controles\bin\Debug\Controles.dll
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\04 - CasoEstudio\Controles\bin\Debug\Controles.pdb
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\04 - CasoEstudio\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\04 - CasoEstudio\Controles\obj\Debug\Controles.dll
+C:\Users\popi\Desktop\CasoEstudioEsqueletos\04 - CasoEstudio\Controles\obj\Debug\Controles.pdb
+\\POPI-PC\0 - Disco Trabajo\Bios\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\3 - Casos de Estudio  - Esqueleto\04 - CasoEstudioEsqueleto\Controles\bin\Debug\Controles.dll
+\\POPI-PC\0 - Disco Trabajo\Bios\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\3 - Casos de Estudio  - Esqueleto\04 - CasoEstudioEsqueleto\Controles\bin\Debug\Controles.pdb
+\\POPI-PC\0 - Disco Trabajo\Bios\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\3 - Casos de Estudio  - Esqueleto\04 - CasoEstudioEsqueleto\Controles\obj\Debug\ResolveAssemblyReference.cache
+\\POPI-PC\0 - Disco Trabajo\Bios\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\3 - Casos de Estudio  - Esqueleto\04 - CasoEstudioEsqueleto\Controles\obj\Debug\Controles.dll
+\\POPI-PC\0 - Disco Trabajo\Bios\2 - Analista Programador Net\1 - Diseño Aplicaciones 2013\3 - Casos de Estudio  - Esqueleto\04 - CasoEstudioEsqueleto\Controles\obj\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\04 - CasoEstudioEsqueleto\Controles\bin\Debug\Controles.dll
+C:\Users\sistemas\Desktop\04 - CasoEstudioEsqueleto\Controles\bin\Debug\Controles.pdb
+C:\Users\sistemas\Desktop\04 - CasoEstudioEsqueleto\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\04 - CasoEstudioEsqueleto\Controles\obj\Debug\Controles.dll
+C:\Users\sistemas\Desktop\04 - CasoEstudioEsqueleto\Controles\obj\Debug\Controles.pdb
+F:\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\obj\Debug\ResolveAssemblyReference.cache
+F:\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\bin\Debug\Controles.dll
+F:\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\bin\Debug\Controles.pdb
+F:\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\obj\Debug\Controles.dll
+F:\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\obj\Debug\Controles.pdb
+C:\Users\Waldemar\Desktop\ANDRES\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\bin\Debug\Controles.dll
+C:\Users\Waldemar\Desktop\ANDRES\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\bin\Debug\Controles.pdb
+C:\Users\Waldemar\Desktop\ANDRES\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Waldemar\Desktop\ANDRES\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\obj\Debug\Controles.dll
+C:\Users\Waldemar\Desktop\ANDRES\2 ndo año analista de sistemas\04 - CasoEstudioEsqueleto\Controles\obj\Debug\Controles.pdb

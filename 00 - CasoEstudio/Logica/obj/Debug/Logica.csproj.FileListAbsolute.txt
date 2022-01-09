@@ -1,0 +1,36 @@
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\CasoDeEstudio\00-CasoEstudio\Logica\obj\Debug\Logica.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Logica.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Logica.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Persistencia.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\Logica.dll
+C:\Users\popi\Desktop\00 - CasoEstudio\Logica\obj\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\00 - CasoEstudio\Logica\obj\Debug\Logica.pdb
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\bin\Debug\Logica.dll
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\bin\Debug\Logica.pdb
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.dll
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\bin\Debug\Persistencia.dll
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\bin\Debug\EntidadesCompartidas.pdb
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\bin\Debug\Persistencia.pdb
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\obj\Debug\ResolveAssemblyReference.cache
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\obj\Debug\Logica.dll
+E:\2 ndo año analista de sistemas\00 - CasoEstudio\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,18 @@
+C:\Users\popi\Desktop\9 - CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\9 - CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\9 - CasoEstudio\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\9 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\9 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\09 - CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\09 - CasoEstudio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\09 - CasoEstudio\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\09 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\09 - CasoEstudio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Facundo\Desktop\09_-_CasoEstudioEsqueleto\09 - CasoEstudioEsqueleto\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Facundo\Desktop\09_-_CasoEstudioEsqueleto\09 - CasoEstudioEsqueleto\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Facundo\Desktop\09_-_CasoEstudioEsqueleto\09 - CasoEstudioEsqueleto\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Facundo\Desktop\09_-_CasoEstudioEsqueleto\09 - CasoEstudioEsqueleto\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Facundo\Desktop\09_-_CasoEstudioEsqueleto v2\09 - CasoEstudioEsqueleto\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Facundo\Desktop\09_-_CasoEstudioEsqueleto v2\09 - CasoEstudioEsqueleto\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Facundo\Desktop\09_-_CasoEstudioEsqueleto v2\09 - CasoEstudioEsqueleto\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Facundo\Desktop\09_-_CasoEstudioEsqueleto v2\09 - CasoEstudioEsqueleto\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
